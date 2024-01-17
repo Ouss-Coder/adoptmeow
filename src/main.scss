@@ -1,5 +1,29 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 
+// main colors: font : #211b1b; titles and buttons:#c1514f ; background: #fff0e6//
 body{
-	background-color:green;
+	background-color: #fff0e6;
+	color:#211b1b !important;
+}
+//------------------------ navbar ---------------------///
+.logoImage{
+	height: auto;
+	width: 100px;
+}
+.navbar-custom{
+	background-color: #211b1b !important;
+}
+
+.navbar-custom a{
+	color:#fff0e6
+}
+.navbar-custom a:hover {
+	color: #c1514f !important;
+}
+.navbar-custom a.nav-link.active{
+	color: #c1514f !important;
+}
+.navbar-toggler{
+	color:#fff0e6;
+	background-color: #c1514f !important;
 }
