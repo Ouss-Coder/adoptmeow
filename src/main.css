@@ -11983,11 +11983,14 @@ body {
 
 .logoImage {
   height: auto;
-  width: 100px;
+  width: 70px;
 }
 
 .navbar-custom {
   background-color: #211b1b !important;
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
 .navbar-custom a {
@@ -12005,4 +12008,33 @@ body {
 .navbar-toggler {
   color: #fff0e6;
   background-color: #c1514f !important;
+}
+
+.nav-button {
+  background-color: #fff0e6;
+  color: #211b1b !important;
+  margin-left: 10px;
+}
+
+.nav-button:hover {
+  background-color: #fff0e6 !important;
+}
+
+.Hero-Section p {
+  font-weight: 600;
+  padding-top: 3%;
+}
+
+button.Hero-Button {
+  background-color: #211b1b !important;
+  color: #fff0e6;
+}
+
+.Hero-Title {
+  font-size: 68px;
+  padding-top: 150px;
+}
+
+.Hero-Image {
+  width: 700px;
 }
