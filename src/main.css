@@ -12003,6 +12003,10 @@ body {
   color: #c1514f !important;
 }
 
+.nav-link.active {
+  color: #c1514f !important;
+}
+
 .navbar-custom a.nav-link.active {
   color: #c1514f !important;
 }
@@ -12027,12 +12031,12 @@ body {
   padding-top: 3%;
 }
 
-button.Hero-Button {
+a.Hero-Button {
   background-color: #211b1b !important;
   color: #fff0e6;
 }
 
-button.Hero-Button:hover {
+a.Hero-Button:hover {
   color: #c1514f;
 }
 
@@ -12114,4 +12118,92 @@ h1.cats-section-title, .cats-section-title.h1 {
 .modal-adopt-button:hover {
   color: #fff0e6 !important;
   background-color: #c1514f !important;
+}
+
+.FAQ {
+  color: #fff0ed;
+}
+
+.faq-title {
+  display: flex;
+  justify-content: center;
+}
+
+section.FAQ {
+  background-color: #211b1b !important;
+}
+
+.accordion-item {
+  background-color: #211b1b !important;
+  color: #fff0e6;
+}
+
+.accordion-button {
+  background-color: #211b1b !important;
+  color: #fff0e6;
+}
+
+.accordion-button:hover {
+  background-color: #211b1b !important;
+  color: #fff0e6;
+}
+
+footer {
+  background-color: #211b1b;
+  color: #fff0e6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+footer h1, footer .h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.footer-nav {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.footer-nav a {
+  text-decoration: none;
+  color: #fff0e6;
+  font-weight: 200;
+}
+
+.footer-nav a:hover {
+  text-decoration: none;
+  color: #c1514f;
+}
+
+.footer-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  color: #c1514f;
+  text-decoration: none;
+}
+
+.footer-icons a {
+  text-decoration: none;
+  color: #c1514f !important;
+}
+
+.footer-icons a:hover {
+  color: #fff0e6 !important;
+}
+
+.Rights-footer {
+  padding-top: 2%;
+  font-weight: 200;
 }
