@@ -6,12 +6,14 @@
 body{
 	background-color: #fff0e6;
 	color:#211b1b !important;
+	line-height: 1.8;
+	font-size: clamp(1.125rem, 1.5vw, 1.25rem);
 }
 //------------------------ navbar ---------------------///
 .logoImage{
 	height: auto;
 	
-	width: 70px;
+	width: 50px;
 }
 .navbar-custom{
 	background-color: #211b1b !important;
@@ -39,15 +41,9 @@ body{
 }
 .nav-button:hover {
 	background-color: #fff0e6 !important;
-	
-	
 }
 //-------------------HERO---------------------//
 
-.Hero-Section{
-	
-	
-}
 .Hero-Section p{
 	font-weight: 600;
 	padding-top: 3%;
@@ -65,12 +61,34 @@ button.Hero-Button:hover {
 .Hero-Title{
 	font-size: 68px;
 	padding-top: 150px;
-	
-	
-	
-	
 }
 .Hero-Image{
 	width: 700px;
 }
 
+//-------------About Us--------//
+.About-Us{
+	background-color: #211b1b;
+	color:#fff0e6;
+}
+.about-us-image{
+	border: 1px solid #fff0e6;
+	border-radius: 5px;
+}
+.About-Us-Button {
+	background-color: #fff0e6;
+	color: #211b1b !important;
+	margin-left: 10px;
+}
+.row.About-Us p{
+	max-width: 70%;
+}
+
+.About-Us-Button:hover {
+	background-color: #c1514f !important;
+	color: #fff0e6, i !important;
+}
+
+
+
+//-------------- scrolling animation -----------------------//
