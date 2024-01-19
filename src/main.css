@@ -12069,3 +12069,49 @@ button.Hero-Button:hover {
   background-color: #c1514f !important;
   color: #fff0e6, i !important;
 }
+
+h1.cats-section-title, .cats-section-title.h1 {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.card.cat-card {
+  background-color: #211b1b;
+  color: #fff0e6;
+}
+
+.Cat-Cards-Button {
+  color: #211b1b !important;
+  background-color: #fff0e6 !important;
+}
+
+.Cat-Cards-Button:hover {
+  color: #fff0e6 !important;
+  background-color: #c1514f !important;
+}
+
+.modal-content {
+  background-color: #211b1b;
+  color: #fff0e6;
+}
+
+.modal-close-button {
+  color: #211b1b !important;
+  background-color: #fff0e6 !important;
+}
+
+.modal-close-button:hover {
+  color: #211b1b !important;
+  background-color: #fff0e6 !important;
+}
+
+.modal-adopt-button {
+  color: #211b1b !important;
+  background-color: #c1514f !important;
+}
+
+.modal-adopt-button:hover {
+  color: #fff0e6 !important;
+  background-color: #c1514f !important;
+}

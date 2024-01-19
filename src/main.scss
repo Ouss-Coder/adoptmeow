@@ -89,6 +89,49 @@ button.Hero-Button:hover {
 	color: #fff0e6, i !important;
 }
 
+//-------------cat cards----------------//
+h1.cats-section-title{
+	display: flex;
+	justify-content: center;
+	padding-bottom: 50px;
+	
+}
+.card.cat-card{
+	background-color: #211b1b;
+	color:#fff0e6 ;
+}
+.Cat-Cards-Button{
+	color:#211b1b !important;
+	background-color: #fff0e6 !important;
+}
+.Cat-Cards-Button:hover {
+	color: #fff0e6 !important;
+	background-color: #c1514f !important;
+}
 
+//------------ MODALS ----------------//
 
-//-------------- scrolling animation -----------------------//
+.modal-content{
+	background-color: #211b1b;
+	color: #fff0e6;
+}
+
+.modal-close-button {
+	color: #211b1b !important;
+	background-color: #fff0e6 !important;
+}
+
+.modal-close-button:hover {
+	color: #211b1b !important;
+	background-color: #fff0e6 !important;
+}
+
+.modal-adopt-button {
+	color: #211b1b !important;
+	background-color: #c1514f !important;
+}
+
+.modal-adopt-button:hover {
+	color: #fff0e6 !important;
+	background-color: #c1514f !important;
+}
