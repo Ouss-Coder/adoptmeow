@@ -20,3 +20,6 @@ Adopt.Meow is a website created to improve my Bootstrap skills and facilitate th
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/Ouss-Coder/bootstrap-website-design
+
+## Visit the website
+You can see the webite live here: [Adopt.Meow](https://pages.github.com/).
