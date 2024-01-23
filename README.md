@@ -22,4 +22,4 @@ Adopt.Meow is a website created to improve my Bootstrap skills and facilitate th
    git clone https://github.com/Ouss-Coder/bootstrap-website-design
 
 ## Visit the website
-You can see the webite live here: [Adopt.Meow](https://ouss-coder.github.io/adoptmeow/).
+You can see the webite live here:[Adopt.Meow](https://ouss-coder.github.io/adoptmeow/).).
